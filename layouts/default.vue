@@ -58,9 +58,9 @@
 										<el-dropdown-item>
 											<div class="flex flex-col items-center">
 												<div class="font-bold">提建议、提需求</div>
-												<div>扫码联系小助手</div>
+												<div>扫码联系作者</div>
 												<el-image class="w-40 h-40"
-													src="https://alioss-cdn.mzyun.tech/chaoniu/20231228/6db0da7afd79b86bb3439c945f87470e.jpg"></el-image>
+													src="https://alioss-cdn.mzyun.tech/common/qrcode.jpg"></el-image>
 
 											</div>
 										</el-dropdown-item>

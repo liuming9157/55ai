@@ -65,7 +65,7 @@ export default defineNuxtConfig({
       link: [{
         rel: 'shortcut icon',
         type: 'image/x-icon',
-        href: 'https://www.superox.cn/assets/img/favicon.ico',
+        href: '/favicon.ico',
       }, {
         rel: 'stylesheet',
         href: 'https://www.superox.cn/assets/libs/font-awesome/css/font-awesome.min.css',

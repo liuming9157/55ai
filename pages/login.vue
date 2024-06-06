@@ -12,6 +12,14 @@
     </div>
 </template>
 <script setup>
+useSeoMeta({
+	title: '登录',
+	ogTitle: '登录',
+	description: '发现最好的AI应用',
+	ogDescription: '发现最好的AI应用',
+	ogImage: '/logo.svg',
+})
+
 const form = ref({ email: '' })
 const supabase = useSupabaseClient()
 

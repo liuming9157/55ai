@@ -11,9 +11,7 @@
 						</el-icon>
 					</template>
 				</el-input>
-
 			</div>
-
 		</div>
 		<div class="my-4">
 			<span class="text-lg font-bold">今日最新产品</span>
@@ -34,8 +32,8 @@
 useSeoMeta({
 	title: '55AI-好用的AI产品和应用大全',
 	ogTitle: '55AI-好用的AI产品和应用大全',
-	description: '出国留学考试在线模考平台，打开网站就能刷题。托福、雅思、SAT、GRE考试学习测评，海量真题提分',
-	ogDescription: '出国留学考试在线模考平台，打开网站就能刷题。托福、雅思、SAT、GRE考试学习测评，海量真题提分',
+	description: '发现最好的AI应用',
+	ogDescription: '发现最好的AI应用',
 	ogImage: '/logo.svg',
 })
 

@@ -11,9 +11,9 @@ export default defineAppConfig({
     // 是否显示版权
     show: true,
     // 版权文字
-    text: '明志科技版权所有',
+    text: 'Copyright Jack Liu',
     // 版权跳转链接
-    url: 'https://mzyun.tech'
+    url: 'http://55ai.store'
   },
   
 });
