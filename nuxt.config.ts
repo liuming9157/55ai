@@ -2,10 +2,7 @@
 export default defineNuxtConfig({
   // ssr: false,
   routeRules: {
-    '/account/**': { ssr: false },
-    '/toefl/report': { ssr: false },
-    '/sat/report': { ssr: false },
-    '/ielts/report': { ssr: false },
+    '/account/**': { ssr: false }
 
   },
   devtools: { enabled: false },
@@ -37,7 +34,7 @@ export default defineNuxtConfig({
     head: {
       titleTemplate: '%s-55AI',
       htmlAttrs: {
-        lang: 'zh-CN',
+        lang: 'en',
       },
       meta: [{
         charset: 'utf-8',
@@ -49,12 +46,12 @@ export default defineNuxtConfig({
       {
         hid: 'keywords',
         name: 'keywords',
-        content: '超牛模考,留学,语培,SAT,ACT,托福TOEFL,雅思IELTS,GRE,GMAT,SAT,ACT,小托福TOEFL junior,PET,最全真题,题库丰富',
+        content: 'AI Tools,AI collection,AI Nanvigation',
       },
       {
         hid: 'description',
         name: 'description',
-        content: '超牛模考是专注于出国留学备考服务的模考测试平台。超牛模考旨在采用最新人工智能AI技术,为百万留学生提供方便好用的模考测试服务，真实满足学生托福TOEFL、雅思IELTS、GRE、GMAT、SAT、ACT、小托福TOEFL junior、PET等英语考试的学习测试需求。目前，超牛模考已为超百万留学生服务，并为超百家语培机构提供技术支持和营销系统服务。',
+        content: '',
       },
       {
         name: 'format-detection',

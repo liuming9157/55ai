@@ -1,13 +1,13 @@
 
 # 👨‍💼 [55AI](https://www.55ai.store/) - Professional  AI Navigation 
 
-[English](README.md) | [中文](README_zh.md)
+[English](README.md) | [中文](README.zh.md)
 
 Introducing 55AI, an open-source  AI tools collection and navigation project.
 
-This project was built to give developers & makers a great starting point into building AI applications. This is your launch pad - fork the code, modify it, and make it your own to build a popular AI app.
+This project was built to give developers & makers a great starting point to collect and search AI applications. This is your launch pad - fork the code, modify it, and make it your own to search a popular AI app.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fliuming9157%2F55ai%2Ftree%2FmainT&envDescription=Set%20up%20environment%20variables%20for%2055AI%20and%20redirect%20URL%20in%20Supabase%20Auth%20dashboard.%20See%20.env.example%20for%20full%20config.&envLink=https%3A%2F%2Fgithub.com%2Fliuming9157%2F55ai%2Fblob%2Fmain%2F.env.example&project-name=55ai-clone&repository-name=55ai-clone&demo-title=AI%20Headshot%20Generator&demo-url=https%3A%2F%2Fwww.55ai.store%2F&demo-image=https%3A%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F1CEDfTwO5vPEiNMgN2Y1t6%2F245d1e0c11c4d8e734fbe345b9ecdc7c%2Fdemo.png&integration-ids=oac_VqOgBHqhEoFTPzGkPd7L0iH6&external-id=https%3A%2F%2Fgithub.com%2Fliuming9157%2F55ai%2Ftree%2Fmain)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fliuming9157%2F55ai%2Ftree%2FmainT&envDescription=Set%20up%20environment%20variables%20for%2055AI%20and%20redirect%20URL%20in%20Supabase%20Auth%20dashboard.%20See%20.env.example%20for%20full%20config.&envLink=https%3A%2F%2Fgithub.com%2Fliuming9157%2F55ai%2Fblob%2Fmain%2F.env.example&project-name=55ai-clone&repository-name=55ai-clone&demo-title=AI%2055AI&demo-url=https%3A%2F%2Fwww.55ai.store%2F&demo-image=https%3A%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F1CEDfTwO5vPEiNMgN2Y1t6%2F245d1e0c11c4d8e734fbe345b9ecdc7c%2Fdemo.png&integration-ids=oac_VqOgBHqhEoFTPzGkPd7L0iH6&external-id=https%3A%2F%2Fgithub.com%2Fliuming9157%2F55ai%2Ftree%2Fmain)
 
 [![55AI Demo](/public/demo.png)](http://www.55ai.store/)
 
@@ -23,16 +23,14 @@ The app is powered by:
 
 - ⭐️ [Element-plus](https://element-plus.org/) for UI components
 - ⭐️ [Tailwind CSS](https://tailwindcss.com/) for styles
-- ▲ [Vercel](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fliuming9157%2F55ai%2Ftree%2FmainT&envDescription=Set%20up%20environment%20variables%20for%2055AI%20and%20redirect%20URL%20in%20Supabase%20Auth%20dashboard.%20See%20.env.example%20for%20full%20config.&envLink=https%3A%2F%2Fgithub.com%2Fliuming9157%2F55ai%2Fblob%2Fmain%2F.env.example&project-name=55ai-clone&repository-name=55ai-clone&demo-title=AI%20Headshot%20Generator&demo-url=https%3A%2F%2Fwww.55ai.store%2F&demo-image=https%3A%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F1CEDfTwO5vPEiNMgN2Y1t6%2F245d1e0c11c4d8e734fbe345b9ecdc7c%2Fdemo.png&integration-ids=oac_VqOgBHqhEoFTPzGkPd7L0iH6&external-id=https%3A%2F%2Fgithub.com%2Fliuming9157%2F55ai%2Ftree%2Fmain) for deployments
+- ▲ [Vercel](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fliuming9157%2F55ai%2Ftree%2FmainT&envDescription=Set%20up%20environment%20variables%20for%2055AI%20and%20redirect%20URL%20in%20Supabase%20Auth%20dashboard.%20See%20.env.example%20for%20full%20config.&envLink=https%3A%2F%2Fgithub.com%2Fliuming9157%2F55ai%2Fblob%2Fmain%2F.env.example&project-name=55ai-clone&repository-name=55ai-clone&demo-title=AI%2055AI&demo-url=https%3A%2F%2Fwww.55ai.store%2F&demo-image=https%3A%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F1CEDfTwO5vPEiNMgN2Y1t6%2F245d1e0c11c4d8e734fbe345b9ecdc7c%2Fdemo.png&integration-ids=oac_VqOgBHqhEoFTPzGkPd7L0iH6&external-id=https%3A%2F%2Fgithub.com%2Fliuming9157%2F55ai%2Ftree%2Fmain) for deployments
 
 
 
 ## Running Locally
 
-To create your own Headshot AI app, follow these steps:
+To create your own 55AI app, follow these steps:
 
-**Note**
-Training models is only available on paid plans. You'll need an active [Astria API Key](<[url](https://www.astria.ai/pricing)>) to train models.
 
 ### 1. Vercel template
 
@@ -40,16 +38,14 @@ To setup Supabase/Vercel and your github repo, click on the Vercel Deploy Button
 
 IMPORTANT: In the Supabase integration step: Make sure you leave the Create sample tables option checked. This might take a few minutes to complete.
 
-[![Deploy with Vercel](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fliuming9157%2F55ai%2Ftree%2FmainT&envDescription=Set%20up%20environment%20variables%20for%2055AI%20and%20redirect%20URL%20in%20Supabase%20Auth%20dashboard.%20See%20.env.example%20for%20full%20config.&envLink=https%3A%2F%2Fgithub.com%2Fliuming9157%2F55ai%2Fblob%2Fmain%2F.env.example&project-name=55ai-clone&repository-name=55ai-clone&demo-title=AI%20Headshot%20Generator&demo-url=https%3A%2F%2Fwww.55ai.store%2F&demo-image=https%3A%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F1CEDfTwO5vPEiNMgN2Y1t6%2F245d1e0c11c4d8e734fbe345b9ecdc7c%2Fdemo.png&integration-ids=oac_VqOgBHqhEoFTPzGkPd7L0iH6&external-id=https%3A%2F%2Fgithub.com%2Fliuming9157%2F55ai%2Ftree%2Fmain)
+[![Deploy with Vercel](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fliuming9157%2F55ai%2Ftree%2FmainT&envDescription=Set%20up%20environment%20variables%20for%2055AI%20and%20redirect%20URL%20in%20Supabase%20Auth%20dashboard.%20See%20.env.example%20for%20full%20config.&envLink=https%3A%2F%2Fgithub.com%2Fliuming9157%2F55ai%2Fblob%2Fmain%2F.env.example&project-name=55ai-clone&repository-name=55ai-clone&demo-title=AI%2055AI&demo-url=https%3A%2F%2Fwww.55ai.store%2F&demo-image=https%3A%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F1CEDfTwO5vPEiNMgN2Y1t6%2F245d1e0c11c4d8e734fbe345b9ecdc7c%2Fdemo.png&integration-ids=oac_VqOgBHqhEoFTPzGkPd7L0iH6&external-id=https%3A%2F%2Fgithub.com%2Fliuming9157%2F55ai%2Ftree%2Fmain)
 
 The Vercel Deployment will create a new repository with this template on your GitHub account and guide you through a new Supabase project creation. The Supabase Vercel Deploy Integration will set up the necessary Supabase environment variables and run the SQL migrations to set up the Database schema on your account. You can inspect the created tables in your project's Table editor.
 
 This will create the tables with their respective columns and RLS policies:
 
-- credits
-- images
-- models
-- samples
+- tools
+
 
 ### 2. Clone your newly created repo:
 
@@ -129,7 +125,7 @@ pnpm dev
 
 Default deploy using Vercel:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fliuming9157%2F55ai%2Ftree%2FmainT&envDescription=Set%20up%20environment%20variables%20for%2055AI%20and%20redirect%20URL%20in%20Supabase%20Auth%20dashboard.%20See%20.env.example%20for%20full%20config.&envLink=https%3A%2F%2Fgithub.com%2Fliuming9157%2F55ai%2Fblob%2Fmain%2F.env.example&project-name=55ai-clone&repository-name=55ai-clone&demo-title=AI%20Headshot%20Generator&demo-url=https%3A%2F%2Fwww.55ai.store%2F&demo-image=https%3A%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F1CEDfTwO5vPEiNMgN2Y1t6%2F245d1e0c11c4d8e734fbe345b9ecdc7c%2Fdemo.png&integration-ids=oac_VqOgBHqhEoFTPzGkPd7L0iH6&external-id=https%3A%2F%2Fgithub.com%2Fliuming9157%2F55ai%2Ftree%2Fmain)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fliuming9157%2F55ai%2Ftree%2FmainT&envDescription=Set%20up%20environment%20variables%20for%2055AI%20and%20redirect%20URL%20in%20Supabase%20Auth%20dashboard.%20See%20.env.example%20for%20full%20config.&envLink=https%3A%2F%2Fgithub.com%2Fliuming9157%2F55ai%2Fblob%2Fmain%2F.env.example&project-name=55ai-clone&repository-name=55ai-clone&demo-title=AI%2055AI&demo-url=https%3A%2F%2Fwww.55ai.store%2F&demo-image=https%3A%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F1CEDfTwO5vPEiNMgN2Y1t6%2F245d1e0c11c4d8e734fbe345b9ecdc7c%2Fdemo.png&integration-ids=oac_VqOgBHqhEoFTPzGkPd7L0iH6&external-id=https%3A%2F%2Fgithub.com%2Fliuming9157%2F55ai%2Ftree%2Fmain)
 
 
 
@@ -148,7 +144,4 @@ If you want to contribute to the codebase make sure you create a new branch and 
 
 55AI is released under the [MIT License](https://choosealicense.com/licenses/mit/).
 
-
-
-  
 
