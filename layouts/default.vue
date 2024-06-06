@@ -3,8 +3,7 @@
 		<el-container>
 			<el-header class="flex justify-between">
 				<div class="flex items-center">
-				<!-- <img class="" src="/logo.svg" /> -->
-				<nuxt-link class="text-2xl font-bold text-blue-500" to="/">55AI</nuxt-link>
+				<img class="h-12" src="/logo.png" />
 
 				</div>
 				<el-menu mode="horizontal" :ellipsis="false">
