@@ -1,6 +1,8 @@
 
 # 👨‍💼 [55AI](https://www.55ai.store/) - Professional  AI Navigation 
 
+[English](README.md) | [中文](README_zh.md)
+
 Introducing 55AI, an open-source  AI tools collection and navigation project.
 
 This project was built to give developers & makers a great starting point into building AI applications. This is your launch pad - fork the code, modify it, and make it your own to build a popular AI app.
@@ -133,7 +135,7 @@ Default deploy using Vercel:
 
 ## Contributing
 
-We welcome collaboration and appreciate your contribution to Headshot AI. If you have suggestions for improvement or significant changes in mind, feel free to open an issue!
+We welcome collaboration and appreciate your contribution to 55AI. If you have suggestions for improvement or significant changes in mind, feel free to open an issue!
 
 If you want to contribute to the codebase make sure you create a new branch and open a pull request that points to `dev`.
 
