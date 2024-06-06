@@ -9,7 +9,7 @@ This project was built to give developers & makers a great starting point to col
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fliuming9157%2F55ai%2Ftree%2F55aiT&envDescription=Set%20up%20environment%20variables%20for%2055AI%20and%20redirect%20URL%20in%20Supabase%20Auth%20dashboard.%20See%20.env.example%20for%20full%20config.&envLink=https%3A%2F%2Fgithub.com%2Fliuming9157%2F55ai%2Fblob%2F55ai%2F.env.example&project-name=55ai-clone&repository-name=55ai-clone&demo-title=AI%2055AI&demo-url=https%3A%2F%2Fwww.55ai.store%2F&demo-image=https%3A%2F%2Falioss-cdn.mzyun.tech%2F55ai%2F20240606%2F158d227d018da0cec062cc9c1b5a6781.png&integration-ids=oac_VqOgBHqhEoFTPzGkPd7L0iH6&external-id=https%3A%2F%2Fgithub.com%2Fliuming9157%2F55ai%2Ftree%2F55ai)
 
-[![55AI Demo](/public/demo.png)](http://www.55ai.store/)
+[![55AI Demo](https://alioss-cdn.mzyun.tech/55ai/20240606/158d227d018da0cec062cc9c1b5a6781.png)](http://www.55ai.store/)
 
 ## How It Works
 
