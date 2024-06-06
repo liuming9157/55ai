@@ -17,9 +17,6 @@
 	</div>
 </template>
 <script setup>
-const router = useRouter();
-
-
 
 </script>
 <style>
