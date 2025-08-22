@@ -61,6 +61,10 @@ export default defineNuxtConfig({
         name: 'baidu-site-verification',
         content: 'codeva-GiEpxZRmes',
       },
+      {
+        name: 'google-adsense-account',
+        content: 'ca-pub-9572894247892588',
+      },
       ],
       link: [{
         rel: 'shortcut icon',
